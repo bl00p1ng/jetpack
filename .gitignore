@@ -1,0 +1,36 @@
+# --- Android / Gradle ---
+**/build/
+**/.gradle/
+**/.cxx/
+**/.externalNativeBuild/
+**/captures/
+
+# --- Local config & secrets (NUNCA commitear) ---
+**/local.properties
+**/*.keystore
+**/*.jks
+**/keystore.properties
+**/secrets.properties
+**/*.env
+.env
+.env.*
+
+# --- IDE ---
+**/.idea/
+*.iml
+*.ipr
+*.iws
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Artefactos ---
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# --- Logs ---
+*.log

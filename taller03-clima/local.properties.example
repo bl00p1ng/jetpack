@@ -1,0 +1,8 @@
+# Copia este archivo a `local.properties` en la raiz del proyecto y completa los valores.
+# `local.properties` NO debe subirse al repositorio.
+
+# Ruta al SDK de Android (Android Studio la agrega automaticamente):
+# sdk.dir=/Users/tuusuario/Library/Android/sdk
+
+# API key de OpenWeatherMap (registrate gratis en https://openweathermap.org/api)
+OPENWEATHER_API_KEY=
